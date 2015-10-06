@@ -13,3 +13,7 @@ $ yaourt -S npm --noconfirm
 ```sh
 $ npm install
 ```
+## Sass zu CSS kompilieren
+```sh
+$ npm run sass:watch
+```
